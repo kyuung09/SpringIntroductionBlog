@@ -14,10 +14,10 @@ import java.time.LocalDateTime;
 public class Timestamped {
 
     @CreatedDate
-    private LocalDateTime createdAt;
+    private LocalDateTime createdAt;        // 생성일자
 
     @LastModifiedDate
-    private LocalDateTime modifiedAt;
+    private LocalDateTime modifiedAt;       // 수정일자
 }
 
 
