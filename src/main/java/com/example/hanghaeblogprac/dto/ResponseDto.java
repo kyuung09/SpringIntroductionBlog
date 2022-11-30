@@ -8,6 +8,6 @@ import lombok.NoArgsConstructor;
 public class ResponseDto {
     private String msg;
     public ResponseDto(String msg){
-        this.msg = msg;
+        this.msg = msg;         // 수행결과(성공/실패) 리턴 메세지
     }
 }
