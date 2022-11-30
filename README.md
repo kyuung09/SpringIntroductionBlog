@@ -40,5 +40,5 @@
 
 
 ### 5. 기술 스택
-FE : -
+FE : -  <br>
 BE : Java, Spring, JPA, H2 database
